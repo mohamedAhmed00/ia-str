@@ -1,11 +1,11 @@
 # IlluminateAgnostic \ Str
 
 <p align="center">
-    <a href="https://packagist.org/packages/pragmarx/ia-str"><img alt="Latest Stable Version" src="https://img.shields.io/packagist/v/pragmarx/ia-str.svg?style=flat-square"></a>
+    <a href="https://packagist.org/packages/mohamedahmed00/ia-str"><img alt="Latest Stable Version" src="https://img.shields.io/packagist/v/mohamedahmed00/ia-str.svg?style=flat-square"></a>
     <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square"></a>
     <a href="https://scrutinizer-ci.com/g/antonioribeiro/ia-str/?branch=master"><img alt="Code Quality" src="https://img.shields.io/scrutinizer/g/antonioribeiro/ia-str.svg?style=flat-square"></a>
     <a href="https://travis-ci.org/antonioribeiro/ia-str"><img alt="Build" src="https://img.shields.io/travis/antonioribeiro/ia-str.svg?style=flat-square"></a>
-    <a href="https://packagist.org/packages/pragmarx/ia-str"><img alt="Downloads" src="https://img.shields.io/packagist/dt/pragmarx/ia-str.svg?style=flat-square"></a>
+    <a href="https://packagist.org/packages/mohamedahmed00/ia-str"><img alt="Downloads" src="https://img.shields.io/packagist/dt/mohamedahmed00/ia-str.svg?style=flat-square"></a>
 </p>
 <p align="center">
     <a href="https://scrutinizer-ci.com/g/antonioribeiro/ia-str/?branch=master"><img alt="Coverage" src="https://img.shields.io/scrutinizer/coverage/g/antonioribeiro/ia-str.svg?style=flat-square"></a>
@@ -25,7 +25,7 @@ You can find some documentation on the available helpers here: https://laravel.c
 Via Composer
 
 ``` bash
-$ composer require pragmarx/ia-str
+$ composer require mohamedahmed00/ia-str
 ```
 
 ## Usage
